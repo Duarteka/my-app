@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1186.172" height="1186.172" viewBox="0 0 1186.172 1186.172">
+  <g id="Grupo_1" data-name="Grupo 1" transform="translate(-1628.688 2050.533) rotate(-89)">
+    <g id="Elipse_2" data-name="Elipse 2" transform="translate(913 1613)" fill="#ce5353" stroke="#707070" stroke-width="1">
+      <circle cx="583" cy="583" r="583" stroke="none"/>
+      <circle cx="583" cy="583" r="582.5" fill="none"/>
+    </g>
+    <path id="Unión_1" data-name="Unión 1" d="M731,1635V1276H638.371c-33.1,0-52.554-37.192-33.681-64.38l266.63-384.1a41,41,0,0,1,67.361,0l266.629,384.1c18.873,27.188-.584,64.38-33.681,64.38H1080v359Z" transform="translate(591 958.101)" fill="#bfae28"/>
+  </g>
+</svg>
